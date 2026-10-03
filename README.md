@@ -1,0 +1,1 @@
+![Enterprise NGS Pipeline Architecture](flowchart.png)
